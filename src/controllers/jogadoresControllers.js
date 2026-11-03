@@ -1,4 +1,4 @@
-import * as jogadorModel from "../models/jogadorModel.js";
+import * as jogadorModel from "../models/jogadoresModel.js";
 import { textoValido } from "../utils/validacoes.js";
 
 // GET /jogadores

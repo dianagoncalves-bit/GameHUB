@@ -1,7 +1,9 @@
+import { Router } from "express";
 import * as jogosController from "../controllers/jogosController.js";
 import validarId from "../middleware/validarid.js";
 
 const router = Router();
+
 
 
 

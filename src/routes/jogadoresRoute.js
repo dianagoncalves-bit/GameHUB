@@ -1,3 +1,4 @@
+import { Router } from "express";
 import * as jogadoresController from "../controllers/jogadoresControllers.js"; 
 import validarId from "../middleware/validarid.js";
 

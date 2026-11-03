@@ -1,4 +1,4 @@
-import * as jogoModel from "../models/jogoModel.js";
+import * as jogoModel from "../models/jogosModel.js";
 import { textoValido, inteiroPositivo } from "../utils/validacoes.js";
 
 // GET /jogos

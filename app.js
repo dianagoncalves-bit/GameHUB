@@ -13,7 +13,7 @@ import tratarErro from "./src/middleware/tratarErro.js"
 
 import estudioRoute from "./src/routes/estudiosRoute.js"
 import jogosRoute from "./src/routes/jogosRoutes.js"
-import jogadoresRoute from "./src/routes/jogadoresRoutes.js"
+import jogadoresRoute from "./src/routes/jogadoresRoute.js"
 
 const app = express();
 const PORTA = Number(process.env.PORTA || 3000);
